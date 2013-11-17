@@ -8,8 +8,8 @@
 
 #descrption
 wery simple jQuery plugin for fixing elements on top\with padding wile scrolling the page.
-<a href='http://git.rzrbld.ru/demo/demo1.html'>demo1</a>
-<a href='http://git.rzrbld.ru/demo/demo2.html'>demo2</a>
+Demo #1: http://git.rzrbld.ru/fixDivOnScroll/demo/demo1.html 
+Demo #2: http://git.rzrbld.ru/fixDivOnScroll/demo/demo2.html
 
 #requirements
 jQuery
