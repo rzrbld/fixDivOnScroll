@@ -1,6 +1,6 @@
 ﻿#README 
 ----------------
-1. description
+1. description and demo
 2. requirement
 3. example
 4. contact
@@ -8,6 +8,8 @@
 
 #descrption
 wery simple jQuery plugin for fixing elements on top\with padding wile scrolling the page.
+<a href='http://git.rzrbld.ru/demo/demo1.html'>demo1</a>
+<a href='http://git.rzrbld.ru/demo/demo2.html'>demo2</a>
 
 #requirements
 jQuery
